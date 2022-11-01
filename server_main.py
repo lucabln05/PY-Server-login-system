@@ -1,7 +1,7 @@
 from audioop import mul
 from random import random, randrange
 import socket
-from _thread import *
+from _thread import * 
 
 
 ServerSideSocket = socket.socket()
